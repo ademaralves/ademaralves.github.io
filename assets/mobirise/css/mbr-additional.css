@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-0 .nav-link {
+  font-size: 24px;
+  font-family: 'Oxygen', sans-serif;
+}
